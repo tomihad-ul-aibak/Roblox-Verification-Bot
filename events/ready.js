@@ -4,5 +4,5 @@ module.exports = (client) => {
 ✅ | Get-Roles.js
 ✅ | Online.js`);
   
-  client.user.setActivity(`${verifiedMembers} Verified Members!`, { type: 'WATCHING' });
+  client.user.setActivity(`for !verify`, { type: 'WATCHING' });
 }
