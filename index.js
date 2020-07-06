@@ -4,7 +4,7 @@ const noblox = require('noblox.js');
 const config = requure('./settings/config.json');
 const fs = require('fs');
 
-client.login(config.token);
+client.login(config.bot_token);
 
 fs.readdir('./events/', (err, file) => {
   if(err) return console.log(err);
