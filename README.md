@@ -14,6 +14,15 @@ Inside the config file please enter your bot token where is says:
 
 This is a important part of the script, and your bot will not work without it! If you have any questions or errors please join my [discord server](https://discord.gg/hMPwS2g)!
 
+## NOTE
 
+Please do not copy this repository onto your pc or etc... if you are going to copy please copy each file one by one to your file, this will stop any confusion!
+
+You will need discord.js and noblox.js! To be able to get these, open your console and type:
+
+npm install discord.js
+npm install noblox.js
+
+One by one! If you are using glitch, go to the package file and then add them there. You must have node.js, this is not a tutorial on how to install it, please visit youtube if you need one.
 
 ### THE ORIGINAL BOT IS NOT WATER MARKED
